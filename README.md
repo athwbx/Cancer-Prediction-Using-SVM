@@ -16,13 +16,12 @@ This repository explores the use of Support Vector Machines (SVM) to predict can
 
 ### Data Analysis (EDA)
 
-- **Exploratory Data Analysis (EDA):** Visualize and understand the relationships between features using scatter plots, heatmaps, and pair plots.
-- **Descriptive Statistics:** Summarize the data using mean, median, standard deviation, and other relevant statistical measures.
+- **Exploratory Data Analysis (EDA):** Visualize and understand the relationships between features using scatter plots, and pair plots.
 
 ### Model Building
 
 - **Model Training:** Train an SVM model on the prepared dataset, using cancer-related features.
-- **Model Evaluation:** Evaluate the model's classification performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
+- **Model Evaluation:** Evaluate the model's classification performance using metrics like accuracy, precision, recall, F1-score, and Jaccard Index
 
 ### Results
 
@@ -40,7 +39,3 @@ This project demonstrates how SVM can be effectively applied to cancer predictio
 - **Cross-Validation:** Use cross-validation techniques to ensure a more reliable estimate of model performance.
 
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
-
----
-
-You can expand on this as you explore your data and results in the actual project.
